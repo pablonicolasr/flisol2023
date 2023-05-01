@@ -9,6 +9,6 @@ Desmitificando la Inteligencia Artificial. ChatGPT.
 
 	1. [Descargar y configurar el entorno de Anaconda](https://www.anaconda.com/)
 	2. Abrir terminal linux y tipear: 
-		`jupyter notebook `
+		`jupyter notebook`
 	3. Abrir el archivo desde jupyter notebook y, ejecutar a celda.
 
